@@ -7,6 +7,8 @@ const jesus = {
         return this.firstName;
     },
 
+    otra cosa
+
     console.log ("hola mundo");
 
     setFirstName: function (newFirstName){
